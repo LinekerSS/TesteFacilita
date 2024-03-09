@@ -19,9 +19,9 @@ Navegue até a pasta backend e instale as dependências com npm install.
 Configure as variáveis de ambiente no arquivo .env com as credenciais do seu banco de dados e chave da API do Google Maps.
 Inicie o servidor com npm start.
 Frontend (React)
-Navegue até a pasta frontend e instale as dependências com npm install.
+Navegue até a pasta clientes e instale as dependências com npm install.
 Inicie a aplicação React com npm start.
-A aplicação estará disponível no navegador em localhost:3000.
+A aplicação estará disponível no navegador em localhost:3003.
 Uso
 Cadastrar Clientes
 No frontend, preencha os campos do formulário com os detalhes do cliente e suas coordenadas geográficas.
