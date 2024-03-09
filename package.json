@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "genetic-travelling-salesman-problem": "^1.0.7"
+  }
+}
